@@ -14,6 +14,7 @@
 | Житнікова Тетяна | Проектувальник бази даних | Розробка представлень aptraining_view та trainers_and_specializations_join_vie | ... |
 ## Контекст теми
 Грицюк Євген відповідав за mixed view, UNION view, demo SELECT-запити та інтеграція представлень у views.sql. Радієвський Ігор відповідав за view-from-view, WITH CHECK OPTION та оформлення фінальної структури views.sql. Закліцький Анатолій відповідав за horizontal view та vertical views. Житнікова Тетяна відповідала за subquery view та додатковий JOIN view.
+Посилання на відео: https://youtu.be/LrYwrrbwGzs
 
 ## Коротке обгрунтування командного підходу
 1. Типи views було розподілено в результаті дискусії. Учасники узгодили запропонований варіант росподілення.
